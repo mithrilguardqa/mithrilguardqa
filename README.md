@@ -1,6 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="60" viewBox="0 0 100 10" preserveAspectRatio="none">
+<svg width="100%" height="40" viewBox="0 0 100 10" preserveAspectRatio="none">
   <defs>
     <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
       <stop offset="0%" stop-color="#0A66C2"/>
@@ -13,17 +13,15 @@
 
 # 🛡️ Mithril Guard QA
 
-### Turning software quality into a predictable, risk-controlled system
-
-### — so you can ship fast without breaking your product.
+### Turning software quality into a predictable, risk-controlled system — so you can ship fast without breaking your product.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mithrilguardqa/" target="_blank">
+<a href="https://www.linkedin.com/in/mithrilguardqa/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Mithril%20Guard%20QA-0A66C2?style=flat&logo=linkedin"/>
 </a>
 <a href="mailto:mithrilguardqa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mithrilguardqa@gmail.com-555?style=flat&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-555?style=flat&logo=gmail"/>
 </a>
 
 <br/><br/>
@@ -31,7 +29,7 @@
 <img src="https://img.shields.io/badge/Quality-Engineering-blue"/>
 <img src="https://img.shields.io/badge/Approach-Risk--Based-success"/>
 <img src="https://img.shields.io/badge/Focus-Release%20Confidence-critical"/>
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20First-black"/>
 
 </div>
 
@@ -243,8 +241,7 @@ Framework: **Playwright**
   <rect width="100" height="10" fill="#0A66C2" />
 </svg>
 
-### 🛡️ Mithril Guard QA
-
+### 🛡️ Mithril Guard QA  
 **Quality you can trust. Releases you can predict.**
 
 </div>
