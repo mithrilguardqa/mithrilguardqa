@@ -1,10 +1,20 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/main/assets/header.png" width="100%" alt="divider"/>
+<svg width="100%" height="60" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
+      <stop offset="0%" stop-color="#0A66C2"/>
+      <stop offset="50%" stop-color="#4B9EFF"/>
+      <stop offset="100%" stop-color="#0A66C2"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="10" fill="url(#grad)" />
+</svg>
 
 # 🛡️ Mithril Guard QA
 
-### Turning software quality into a predictable, risk-controlled system  
+### Turning software quality into a predictable, risk-controlled system
+
 ### — so you can ship fast without breaking your product.
 
 <br/>
@@ -12,7 +22,7 @@
 <a href="https://www.linkedin.com/in/mithrilguardqa/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mithril%20Guard%20QA-0A66C2?style=flat&logo=linkedin"/>
 </a>
-<a href="mailto:contact@mithrilguard.qa">
+<a href="mailto:mithrilguardqa@gmail.com">
   <img src="https://img.shields.io/badge/Email-contact@mithrilguard.qa-555?style=flat&logo=gmail"/>
 </a>
 
@@ -68,6 +78,7 @@ Our mission is to turn software delivery from a guessing game into a
 QA is not just about finding bugs.
 
 It’s about:
+
 - understanding risk
 - guiding decisions
 - protecting business value
@@ -228,9 +239,12 @@ Framework: **Playwright**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/main/assets/footer.png" width="100%" alt="divider"/>
+<svg width="100%" height="40" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <rect width="100" height="10" fill="#0A66C2" />
+</svg>
 
-### 🛡️ Mithril Guard QA  
+### 🛡️ Mithril Guard QA
+
 **Quality you can trust. Releases you can predict.**
 
 </div>
