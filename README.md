@@ -1,15 +1,27 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/main/assets/header.png" width="100%" alt="divider"/>
+
 # 🛡️ Mithril Guard QA
 
-### Turning software quality into a predictable, risk-controlled system — so you can ship fast without breaking your product.
+### Turning software quality into a predictable, risk-controlled system  
+### — so you can ship fast without breaking your product.
 
 <br/>
 
-![Quality](https://img.shields.io/badge/Quality-Engineering-blue)
-![Approach](https://img.shields.io/badge/Approach-Risk--Based-success)
-![Testing](https://img.shields.io/badge/Manual%20%26%20Automation-Unified-black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-critical)
+<a href="https://www.linkedin.com/in/mithrilguardqa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mithril%20Guard%20QA-0A66C2?style=flat&logo=linkedin"/>
+</a>
+<a href="mailto:contact@mithrilguard.qa">
+  <img src="https://img.shields.io/badge/Email-contact@mithrilguard.qa-555?style=flat&logo=gmail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Quality-Engineering-blue"/>
+<img src="https://img.shields.io/badge/Approach-Risk--Based-success"/>
+<img src="https://img.shields.io/badge/Focus-Release%20Confidence-critical"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black"/>
 
 </div>
 
@@ -146,11 +158,10 @@ Each cycle makes the system:
 
 Used where **human judgment matters most**:
 
-- Exploratory testing
-- Ad hoc validation
-- UX & usability testing
+- Exploratory & ad hoc testing
+- UX & usability validation
 - Accessibility testing
-- Regression and compatibility testing
+- Regression & compatibility testing
 - Backward compatibility testing
 - API validation from a user and system perspective
 - Experience with Stripe / Google Pay / Apple Pay flows
@@ -190,8 +201,8 @@ Framework: **Playwright**
 #### Reporting & quality visibility
 
 - Clear, decision-oriented QA reports
-- Real-time automation results via **Slack notifications**
-- Detailed execution reports with **Allure**
+- Real-time automation signals via **Slack**
+- Detailed execution insights with **Allure**
 
 ---
 
@@ -202,7 +213,22 @@ Framework: **Playwright**
 
 ---
 
+## 📊 Quality Signals (what we actually care about)
+
 <div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Business%20Risk-blue"/>
+<img src="https://img.shields.io/badge/Signal-Release%20Confidence-success"/>
+<img src="https://img.shields.io/badge/Priority-Production%20Stability-critical"/>
+<img src="https://img.shields.io/badge/Automation-Strategy--Driven-black"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/main/assets/footer.png" width="100%" alt="divider"/>
 
 ### 🛡️ Mithril Guard QA  
 **Quality you can trust. Releases you can predict.**
