@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Mithril%20Guard%20QA-0A66C2?style=flat&logo=linkedin"/>
 </a>
 <a href="mailto:mithrilguardqa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact@mithrilguard.qa-555?style=flat&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-mithrilguardqa@gmail.com-555?style=flat&logo=gmail"/>
 </a>
 
 <br/><br/>
