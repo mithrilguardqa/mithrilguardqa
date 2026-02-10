@@ -6,10 +6,10 @@
 
 <br/>
 
-![QA](https://img.shields.io/badge/Quality-Engineering-blue)
-![Testing](https://img.shields.io/badge/Manual%20%26%20Automation-Testing-success)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)
-![Focus](https://img.shields.io/badge/Focus-Risk--Based%20QA-critical)
+![Quality](https://img.shields.io/badge/Quality-Engineering-blue)
+![Approach](https://img.shields.io/badge/Approach-Risk--Based-success)
+![Testing](https://img.shields.io/badge/Manual%20%26%20Automation-Unified-black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-critical)
 
 </div>
 
@@ -18,7 +18,7 @@
 ## 🔹 Brand intro
 
 We turn software quality into a predictable, risk-controlled system —  
-so you can ship fast **without breaking your product**.
+so teams can ship fast **without breaking their product**.
 
 ---
 
@@ -37,7 +37,7 @@ No one has a clear view of:
 The result is predictable:
 
 - regressions
-- production issues
+- production incidents
 - customer complaints
 - lost revenue
 
@@ -50,20 +50,25 @@ They ship **hoping nothing breaks**, instead of **knowing what will**.
 
 ## 🔹 Why this company exists
 
-Our mission is to turn software delivery from a guessing game into a **controlled, predictable process**.
+Our mission is to turn software delivery from a guessing game into a  
+**controlled, predictable, risk-aware process**.
 
 QA is not just about finding bugs.
 
 It’s about:
-- understanding risk  
-- guiding decisions  
-- protecting business value  
+- understanding risk
+- guiding decisions
+- protecting business value
 
 ---
 
 ## 🔹 What we actually do
 
-We build **Quality Engineering systems** that combine **strategy, execution, and ownership**.
+We build **Quality Engineering systems** that combine:
+
+- strategy
+- execution
+- ownership
 
 We don’t test everything blindly.  
 We help teams:
@@ -72,23 +77,17 @@ We help teams:
 - understand what would hurt the business most
 - focus QA effort exactly where it matters
 
-### Our approach combines:
-
-- **Risk-based quality strategy** for every feature and release
-- **Manual exploratory & regression testing** where human judgment matters
-- **Smart test automation** (API, backend, critical E2E flows)
-
-Automation becomes the **execution engine of the strategy**,  
-running continuously inside **CI/CD**, protecting high-risk areas  
-while keeping releases fast.
+Automation becomes the **execution engine** of the strategy,  
+while manual testing provides **judgment, exploration, and direction**.
 
 ---
 
 ## 🔹 Our philosophy (how we think about QA)
 
-Automation and manual testing are just **tools** — not the essence of QA.
+Manual testing and automation are **not separate services**.  
+They are two parts of the same system.
 
-**Real QA is ownership and responsibility**:
+Real QA is **ownership and responsibility**:
 
 - challenging decisions
 - protecting end users
@@ -98,7 +97,7 @@ Automation and manual testing are just **tools** — not the essence of QA.
 It also means:
 
 - understanding business goals
-- communicating clearly with engineering and stakeholders
+- clear communication with engineering and stakeholders
 - documenting risk and decisions
 - guiding teams instead of just reporting defects
 
@@ -117,99 +116,89 @@ It’s about **better decisions**.
 
 Perfect QA means:
 
-- every new feature is evaluated for **technical and business risk**
-- high-risk areas get **deeper validation and stronger protection**
+- every feature is evaluated for **technical and business risk**
+- high-risk areas receive **deeper validation and stronger protection**
 - low-risk areas move fast **without unnecessary friction**
 
-We embed QA across the full product lifecycle:
+QA is embedded across the full product lifecycle:
 
 `requirements → design → development → release → real user feedback`
 
 Each cycle makes the system:
+
 - more stable
 - more predictable
 - cheaper to maintain
 
 ---
 
-## 🧪 Services
+## 🧪 Quality Engineering Services (Unified)
+
+### Risk-based quality strategy
+
+- Risk assessment for features, changes, and releases
+- Identification of business-critical and failure-prone areas
+- Clear testing and automation priorities
 
 ---
 
-### 1️⃣ Manual testing
+### Exploratory & manual validation
 
-#### Testing types
+Used where **human judgment matters most**:
 
-- Ad hoc
-- Exploratory
-- API testing
-- UI/UX testing
-- Functional testing
-- Smoke testing
-- Sanity testing
-- Compatibility testing
-- Regression testing
-- Backward compatibility testing
+- Exploratory testing
+- Ad hoc validation
+- UX & usability testing
 - Accessibility testing
-- Experience with Stripe / Google Pay / Apple Pay
+- Regression and compatibility testing
+- Backward compatibility testing
+- API validation from a user and system perspective
+- Experience with Stripe / Google Pay / Apple Pay flows
 
 ---
 
-#### Test planning & coverage
+### Automated protection & regression control
 
-- Test plan creation
-- Test case coverage (low / mid / high level)
-- TCMS integration (BrowserStack, Qase)
+Used where **speed, repeatability, and consistency matter**:
 
----
+#### API & backend automation
 
-#### Strengths & collaboration
-
-- Strong eye for detail
-- Risk assessment of problematic areas and failure points
-- Extensive collaboration with UI/UX designers and Business Analysts
-- User-feedback driven mindset (reviews, surveys, real usage)
-- Fast adaptation to different team structures
-- Ability to spot SDLC bottlenecks and weak points
-- Leadership qualities and ownership mindset
+- Functional validation of business-critical endpoints
+- Contract testing with strict schemas and rules
+- Integration testing across services and dependencies
 
 ---
 
-#### Reporting
+#### End-to-end automation (critical user journeys)
 
-- Weekly / monthly / post-testing reports
-- Clear structure, actionable insights, decision-focused output
+- Automation of high-risk, business-critical user flows
+- Realistic production-like scenarios
+- Stable, maintainable E2E coverage
 
----
-
-### 2️⃣ Automation testing
-
-#### API testing
-
-- Functional API testing
-- Contract testing (strict schema & rule validation)
-- Integration testing
+Framework: **Playwright**
 
 ---
 
-#### End-to-end testing
+#### CI/CD integration
 
-- Critical user flows
-- Playwright framework experience
-
----
-
-#### CI/CD
-
-- GitHub Actions
-- Automation running continuously inside delivery pipelines
+- Automation integrated into **GitHub Actions**
+- Continuous execution inside delivery pipelines
+- Fast feedback for engineers and decision-makers
 
 ---
 
-#### Test automation reporting
+#### Reporting & quality visibility
 
-- BrowserStack Slack reporting
-- Allure reports
+- Clear, decision-oriented QA reports
+- Real-time automation results via **Slack notifications**
+- Detailed execution reports with **Allure**
+
+---
+
+#### Performance & reliability awareness
+
+- Initial experience with **k6** for performance and load testing
+- Early identification of bottlenecks and degradation risks
 
 ---
 
