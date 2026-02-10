@@ -1,23 +1,31 @@
 <div align="center">
 
-### Mithril Guard QA
+# 🛡️ Mithril Guard QA
 
-**Turning software quality into a predictable, risk-controlled system — so you can ship fast without breaking your product.**
+### Turning software quality into a predictable, risk-controlled system — so you can ship fast without breaking your product.
+
+<br/>
+
+![QA](https://img.shields.io/badge/Quality-Engineering-blue)
+![Testing](https://img.shields.io/badge/Manual%20%26%20Automation-Testing-success)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)
+![Focus](https://img.shields.io/badge/Focus-Risk--Based%20QA-critical)
 
 </div>
 
 ---
 
-### 🔹 Brand intro / one-liner
+## 🔹 Brand intro
 
-We turn software quality into a predictable, risk-controlled system — so you can ship fast without breaking your product.
+We turn software quality into a predictable, risk-controlled system —  
+so you can ship fast **without breaking your product**.
 
 ---
 
-### 🔹 What problem are we solving?
+## 🔹 What problem are we solving?
 
-Problem:  
-SaaS products grow faster than their development processes.  
+SaaS products grow faster than their development processes.
+
 Features are shipped under pressure.  
 Different teams change different parts of the system.  
 No one has a clear view of:
@@ -26,24 +34,37 @@ No one has a clear view of:
 - what is safe
 - what will break next
 
-The result is predictable:  
-regressions, production issues, customer complaints, and lost revenue.  
-Teams are not just missing tests — they are missing risk visibility and release control.  
-They ship hoping nothing breaks, instead of knowing what will.
+The result is predictable:
+
+- regressions
+- production issues
+- customer complaints
+- lost revenue
+
+Teams are not just missing tests —  
+they are missing **risk visibility and release control**.
+
+They ship **hoping nothing breaks**, instead of **knowing what will**.
 
 ---
 
-### 🔹 Why this company exists
+## 🔹 Why this company exists
 
-Our mission is to turn software delivery from a guessing game into a controlled, predictable process.  
-We believe QA is not just about finding bugs.  
-It’s about understanding risk, guiding decisions, and protecting business value.
+Our mission is to turn software delivery from a guessing game into a **controlled, predictable process**.
+
+QA is not just about finding bugs.
+
+It’s about:
+- understanding risk  
+- guiding decisions  
+- protecting business value  
 
 ---
 
-### 🔹 What we actually do
+## 🔹 What we actually do
 
-We build Quality Engineering systems that combine strategy, execution, and ownership.  
+We build **Quality Engineering systems** that combine **strategy, execution, and ownership**.
+
 We don’t test everything blindly.  
 We help teams:
 
@@ -51,22 +72,28 @@ We help teams:
 - understand what would hurt the business most
 - focus QA effort exactly where it matters
 
-To do that, we combine:
+### Our approach combines:
 
-- Risk-based quality strategy for every feature and release
-- Manual exploratory and regression testing where human judgment matters
-- Smart test automation (API, backend, and critical end-to-end user flows)
+- **Risk-based quality strategy** for every feature and release
+- **Manual exploratory & regression testing** where human judgment matters
+- **Smart test automation** (API, backend, critical E2E flows)
 
-Automation becomes the execution engine of the strategy —  
-running continuously inside CI/CD to protect high-risk areas and keep releases moving fast.
+Automation becomes the **execution engine of the strategy**,  
+running continuously inside **CI/CD**, protecting high-risk areas  
+while keeping releases fast.
 
 ---
 
-### 🔹 Our philosophy (how we think about QA)
+## 🔹 Our philosophy (how we think about QA)
 
-Automation and manual testing are just tools — not the essence of QA.  
-Real QA is ownership and responsibility:  
-challenging decisions, protecting end users, raising uncomfortable questions, and standing behind product quality.
+Automation and manual testing are just **tools** — not the essence of QA.
+
+**Real QA is ownership and responsibility**:
+
+- challenging decisions
+- protecting end users
+- raising uncomfortable questions
+- standing behind product quality
 
 It also means:
 
@@ -75,32 +102,43 @@ It also means:
 - documenting risk and decisions
 - guiding teams instead of just reporting defects
 
-QA is the bridge between business, development, and management.  
-Tools and frameworks change — this mindset never does.  
-Perfect QA isn’t about more tests.  
-It’s about better decisions.
+QA is the **bridge between business, development, and management**.
+
+Tools change.  
+Frameworks change.  
+This mindset **never does**.
+
+Perfect QA isn’t about **more tests**.  
+It’s about **better decisions**.
 
 ---
 
-### 🔹 What “Perfect QA” really means
+## 🔹 What “Perfect QA” really means
 
 Perfect QA means:
 
-- every new feature is evaluated for technical and business risk
-- high-risk areas get deeper validation and stronger protection
-- low-risk areas move fast without unnecessary friction
+- every new feature is evaluated for **technical and business risk**
+- high-risk areas get **deeper validation and stronger protection**
+- low-risk areas move fast **without unnecessary friction**
 
-We embed QA across the full product lifecycle:  
-from requirements → design → development → release → real user feedback.  
-Each cycle makes the system more stable, more predictable, and cheaper to maintain.
+We embed QA across the full product lifecycle:
+
+`requirements → design → development → release → real user feedback`
+
+Each cycle makes the system:
+- more stable
+- more predictable
+- cheaper to maintain
 
 ---
 
-## Services
+## 🧪 Services
 
-### 1. Manual testing
+---
 
-**Testing types**
+### 1️⃣ Manual testing
+
+#### Testing types
 
 - Ad hoc
 - Exploratory
@@ -113,52 +151,71 @@ Each cycle makes the system more stable, more predictable, and cheaper to mainta
 - Regression testing
 - Backward compatibility testing
 - Accessibility testing
-- Brief experience with Stripe/Google pay/Apple Pay payment providers
-
-**Test planning & coverage**
-
-- Creating a test plan
-- Test case low/mid/high level coverage
-- Integration of TCMS - like Browserstack/Qase
-
-**Strengths & collaboration**
-
-- Strong eye for details
-- Good risk assessment of problematic areas and potential failures
-- Vast experience working with UI/UX designers and BA to ensure the user satisfaction
-- Eager for user feedback - where the key of a great product lies - reviews, surveys etc
-- Experience working with different types of teams and ability to fit in quickly
-- Observe and pin point some problem areas of the team SDLC
-- Leadership qualities
-
-**Reporting**
-
-- Reporting - how to do a weekly/monthly/after test report - in what format?
+- Experience with Stripe / Google Pay / Apple Pay
 
 ---
 
-### 2. Automation testing
+#### Test planning & coverage
 
-**API testing**
+- Test plan creation
+- Test case coverage (low / mid / high level)
+- TCMS integration (BrowserStack, Qase)
 
-- API testing
-  - Functional testing
-  - Contract testing - stricter with a lot of rules
-  - Integration testing
+---
 
-**End-to-end testing**
+#### Strengths & collaboration
 
-- E2E testing
-  - Playwright framework experience
+- Strong eye for detail
+- Risk assessment of problematic areas and failure points
+- Extensive collaboration with UI/UX designers and Business Analysts
+- User-feedback driven mindset (reviews, surveys, real usage)
+- Fast adaptation to different team structures
+- Ability to spot SDLC bottlenecks and weak points
+- Leadership qualities and ownership mindset
 
-**CI/CD**
+---
 
-- CI/CD
-  - GitHub Actions
+#### Reporting
 
-**Test automation reporting**
+- Weekly / monthly / post-testing reports
+- Clear structure, actionable insights, decision-focused output
 
-- Test automation reporting
-  - Browserstack slack reporting
-  - Allure
+---
 
+### 2️⃣ Automation testing
+
+#### API testing
+
+- Functional API testing
+- Contract testing (strict schema & rule validation)
+- Integration testing
+
+---
+
+#### End-to-end testing
+
+- Critical user flows
+- Playwright framework experience
+
+---
+
+#### CI/CD
+
+- GitHub Actions
+- Automation running continuously inside delivery pipelines
+
+---
+
+#### Test automation reporting
+
+- BrowserStack Slack reporting
+- Allure reports
+
+---
+
+<div align="center">
+
+### 🛡️ Mithril Guard QA  
+**Quality you can trust. Releases you can predict.**
+
+</div>
