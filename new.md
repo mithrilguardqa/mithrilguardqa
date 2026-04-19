@@ -229,12 +229,9 @@ not just test execution.
 
 <br/>
 
-<a href="https://calendly.com/mithrilguardqa/qa-audit">
-  <img src="https://img.shields.io/badge/📅_Book_a_QA_Audit-0A66C2?style=for-the-badge&logoColor=white" alt="Book a QA Audit" />
-</a>
 &nbsp;
 <a href="mailto:mithrilguardqa@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email_us-555?style=for-the-badge&logoColor=white" alt="Email us" />
+<img src="https://img.shields.io/badge/✉️_Email_us-555?style=for-the-badge&logoColor=white" alt="Email us" />
 </a>
 
 <br/><br/>
