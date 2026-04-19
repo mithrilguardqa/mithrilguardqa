@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./images/logo.png" alt="Mithril Guard QA" width="180" />
-
-# Mithril Guard QA
+<img src="./images/logo.png" alt="Mithril Guard QA" width="500" />
 
 ### Risk-driven QA for SaaS teams that ship fast.
 
@@ -37,7 +35,7 @@
 <img src="https://img.shields.io/badge/Approach-Risk--Based-success" alt="Risk-Based" />
 <img src="https://img.shields.io/badge/Focus-Release%20Confidence-critical" alt="Release Confidence" />
 <img src="https://img.shields.io/badge/Quality-Engineering-blue" alt="Quality Engineering" />
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20First-black" alt="CI/CD" />
+<!-- <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20First-black" alt="CI/CD" /> -->
 
 </div>
 
@@ -92,8 +90,8 @@ No one has a clear view of:
 The result is predictable:
 
 | 🔻 Regressions in critical flows | 🔻 Production incidents |
-| :--- | :--- |
-| 🔻 **Customer frustration** | 🔻 **Revenue loss** |
+| :------------------------------- | :---------------------- |
+| 🔻 **Customer frustration**      | 🔻 **Revenue loss**     |
 
 Teams are not missing tests.
 They are missing **risk visibility and release control**.
@@ -226,6 +224,7 @@ not just test execution.
 <br/>
 
 ### 🛡️ Mithril Guard QA
+
 **Quality you can trust. Releases you can predict.**
 
 <br/>
