@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/logo.png" alt="Mithril Guard QA" width="800" />
+<img src="./images/logo.jpg" alt="Mithril Guard QA" width="800" />
 
 ### Risk-driven QA for SaaS teams that ship fast.
 
