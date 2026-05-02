@@ -1,247 +1,232 @@
 <div align="center">
 
-<svg width="100%" height="40" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
-      <stop offset="0%" stop-color="#0A66C2"/>
-      <stop offset="50%" stop-color="#4B9EFF"/>
-      <stop offset="100%" stop-color="#0A66C2"/>
-    </linearGradient>
-  </defs>
-  <rect width="100" height="10" fill="url(#grad)" />
-</svg>
+<img src="./images/logo.jpg" alt="Mithril Guard QA" width="800" />
 
-# 🛡️ Mithril Guard QA
-
-### Turning software quality into a predictable, risk-controlled system — so you can ship fast without breaking your product.
+### Risk-driven QA for SaaS teams that ship fast.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mithrilguardqa/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Mithril%20Guard%20QA-0A66C2?style=flat&logo=linkedin"/>
-</a>
-<a href="mailto:mithrilguardqa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-555?style=flat&logo=gmail"/>
-</a>
+<p align="center">
+  <i>We help SaaS teams reduce production risk and gain release confidence</i><br/>
+  <i>by turning QA into a structured, risk-driven system.</i>
+</p>
+
+<br/>
+
+<a href="https://calendly.com/mithrilguardqa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/📅_Book_a_QA_Audit-0A66C2?style=for-the-badge&logoColor=white" alt="Book a QA Audit" /></a>&nbsp;<a href="#-how-it-works"><img src="https://img.shields.io/badge/▸_View_how_it_works-1a1a1a?style=for-the-badge&logoColor=white" alt="View how it works" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Quality-Engineering-blue"/>
-<img src="https://img.shields.io/badge/Approach-Risk--Based-success"/>
-<img src="https://img.shields.io/badge/Focus-Release%20Confidence-critical"/>
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20First-black"/>
+<a href="https://www.linkedin.com/company/mithril-guard-qa/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Mithril%20Guard%20QA-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:mithrilguardqa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-555?style=flat&logo=gmail" alt="Email" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Approach-Risk--Based-success" alt="Risk-Based" />
+<img src="https://img.shields.io/badge/Focus-Release%20Confidence-critical" alt="Release Confidence" />
+<img src="https://img.shields.io/badge/Quality-Engineering-blue" alt="Quality Engineering" />
+<!-- <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20First-black" alt="CI/CD" /> -->
 
 </div>
 
 ---
 
-## 🔹 Brand intro
+<div align="center">
 
-We turn software quality into a predictable, risk-controlled system —  
-so teams can ship fast **without breaking their product**.
+## 📊 Risk-driven system in practice
+
+<br/>
+
+<img src="./images/risk-heatmap.png" alt="Risk Heatmap — QA Audit snapshot" width="90%" />
+
+<br/>
+
+**QA Audit snapshot** — based on real system components, business-critical flows, and risk signals.
+
+</div>
 
 ---
 
-## 🔹 What problem are we solving?
+## 🔹 What we do
 
-SaaS products grow faster than their development processes.
+We build **risk-driven QA systems** that help teams understand where their product can break — and what it will cost when it does.
 
-Features are shipped under pressure.  
-Different teams change different parts of the system.  
+Instead of testing everything blindly, we focus on:
+
+- 🎯 **Identifying** the most failure-prone areas of the system
+- 💰 **Quantifying** business impact of potential failures
+- ⚡ **Prioritizing** testing and automation where it matters most
+
+> Automation becomes the **execution layer** of the strategy,
+> while manual testing provides **direction, exploration, and judgment**.
+
+This creates a clear, risk-driven foundation for confident releases.
+
+---
+
+## 🔹 The problem
+
+SaaS products evolve faster than the systems that are meant to protect them.
+
+Features are shipped under pressure.
+Multiple teams change different parts of the product.
+
 No one has a clear view of:
 
-- what is risky
-- what is safe
-- what will break next
+- what is **risky**
+- what is **safe**
+- what is likely to **break next**
 
 The result is predictable:
 
-- regressions
-- production incidents
-- customer complaints
-- lost revenue
+| 🔻 Regressions in critical flows | 🔻 Production incidents |
+| :------------------------------- | :---------------------- |
+| 🔻 **Customer frustration**      | 🔻 **Revenue loss**     |
 
-Teams are not just missing tests —  
-they are missing **risk visibility and release control**.
+Teams are not missing tests.
+They are missing **risk visibility and release control**.
 
-They ship **hoping nothing breaks**, instead of **knowing what will**.
-
----
-
-## 🔹 Why this company exists
-
-Our mission is to turn software delivery from a guessing game into a  
-**controlled, predictable, risk-aware process**.
-
-QA is not just about finding bugs.
-
-It’s about:
-
-- understanding risk
-- guiding decisions
-- protecting business value
+> They ship **hoping** nothing breaks —
+> instead of **knowing** what will.
 
 ---
 
-## 🔹 What we actually do
+## 🔹 How it works
 
-We build **Quality Engineering systems** that combine:
+Every feature, change, and release is evaluated through the lens of **risk**.
 
-- strategy
-- execution
-- ownership
+Instead of treating all parts of the system equally, we focus on:
 
-We don’t test everything blindly.  
-We help teams:
+- where failures are **most likely to occur**
+- where failures would have the **highest business impact**
 
-- identify what is most likely to break
-- understand what would hurt the business most
-- focus QA effort exactly where it matters
+This creates a clear structure:
 
-Automation becomes the **execution engine** of the strategy,  
-while manual testing provides **judgment, exploration, and direction**.
+- 🔴 **High-risk areas** receive deeper validation and stronger protection
+- 🟢 **Low-risk areas** move faster without unnecessary friction
 
----
-
-## 🔹 Our philosophy (how we think about QA)
-
-Manual testing and automation are **not separate services**.  
-They are two parts of the same system.
-
-Real QA is **ownership and responsibility**:
-
-- challenging decisions
-- protecting end users
-- raising uncomfortable questions
-- standing behind product quality
-
-It also means:
-
-- understanding business goals
-- clear communication with engineering and stakeholders
-- documenting risk and decisions
-- guiding teams instead of just reporting defects
-
-QA is the **bridge between business, development, and management**.
-
-Tools change.  
-Frameworks change.  
-This mindset **never does**.
-
-Perfect QA isn’t about **more tests**.  
-It’s about **better decisions**.
-
----
-
-## 🔹 What “Perfect QA” really means
-
-Perfect QA means:
-
-- every feature is evaluated for **technical and business risk**
-- high-risk areas receive **deeper validation and stronger protection**
-- low-risk areas move fast **without unnecessary friction**
-
-QA is embedded across the full product lifecycle:
-
-`requirements → design → development → release → real user feedback`
-
-Each cycle makes the system:
-
-- more stable
-- more predictable
-- cheaper to maintain
-
----
-
-## 🧪 Quality Engineering Services (Unified)
-
-### Risk-based quality strategy
-
-- Risk assessment for features, changes, and releases
-- Identification of business-critical and failure-prone areas
-- Clear testing and automation priorities
-
----
-
-### Exploratory & manual validation
-
-Used where **human judgment matters most**:
-
-- Exploratory & ad hoc testing
-- UX & usability validation
-- Accessibility testing
-- Regression & compatibility testing
-- Backward compatibility testing
-- API validation from a user and system perspective
-- Experience with Stripe / Google Pay / Apple Pay flows
-
----
-
-### Automated protection & regression control
-
-Used where **speed, repeatability, and consistency matter**:
-
-#### API & backend automation
-
-- Functional validation of business-critical endpoints
-- Contract testing with strict schemas and rules
-- Integration testing across services and dependencies
-
----
-
-#### End-to-end automation (critical user journeys)
-
-- Automation of high-risk, business-critical user flows
-- Realistic production-like scenarios
-- Stable, maintainable E2E coverage
-
-Framework: **Playwright**
-
----
-
-#### CI/CD integration
-
-- Automation integrated into **GitHub Actions**
-- Continuous execution inside delivery pipelines
-- Fast feedback for engineers and decision-makers
-
----
-
-#### Reporting & quality visibility
-
-- Clear, decision-oriented QA reports
-- Real-time automation signals via **Slack**
-- Detailed execution insights with **Allure**
-
----
-
-#### Performance & reliability awareness
-
-- Initial experience with **k6** for performance and load testing
-- Early identification of bottlenecks and degradation risks
-
----
-
-## 📊 Quality Signals (what we actually care about)
+QA becomes part of the full product lifecycle:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Business%20Risk-blue"/>
-<img src="https://img.shields.io/badge/Signal-Release%20Confidence-success"/>
-<img src="https://img.shields.io/badge/Priority-Production%20Stability-critical"/>
-<img src="https://img.shields.io/badge/Automation-Strategy--Driven-black"/>
+`requirements` → `design` → `development` → `release` → `real user feedback`
+
+</div>
+
+Each cycle improves:
+
+- ✅ system stability
+- ✅ release predictability
+- ✅ long-term maintainability
+
+---
+
+## 🔹 Engagement models
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔍 QA Audit
+
+A focused assessment designed to identify where your system is most at risk.
+
+- rapid discovery of failure-prone areas
+- evaluation of business impact
+- clear, actionable insights
+
+**Best for:** teams that need immediate clarity and direction.
+
+<br/>
+
+<a href="https://calendly.com/mithrilguardqa" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Book_a_QA_Audit-0A66C2?style=for-the-badge" alt="Book a QA Audit" />
+</a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🏗️ Test Foundation
+
+A structured QA system built around your real product behavior and risk profile.
+
+- risk-based test strategy
+- coverage aligned with critical business flows
+- automation-ready test design
+
+**Best for:** teams that need a scalable and maintainable QA setup.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔄 Continuous QA
+
+Ongoing risk control embedded into your development and release process.
+
+- continuous validation of critical flows
+- integration with CI/CD pipelines
+- real-time quality visibility
+
+**Best for:** teams that want consistent release confidence.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+#### Not sure where to start?
+
+If you're unsure where to start, book a short call and we'll figure it out together.
+
+<a href="https://calendly.com/mithrilguardqa" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📞_Book_a_call-1a1a1a?style=for-the-badge&logoColor=white" alt="Book a call" />
+</a>
 
 </div>
 
 ---
 
+## 🔹 Why teams work with us
+
+We don't treat QA as a testing activity —
+we treat it as a **system for controlling risk and protecting business value**.
+
+What this means in practice:
+
+- ✔️ QA is aligned with **business impact**, not just technical validation
+- ✔️ Risk is made **visible, measurable, and actionable**
+- ✔️ Decisions are **guided**, not just reported
+- ✔️ Quality is **owned** across the full product lifecycle
+
+We focus on **clarity, accountability, and real system behavior** —
+not just test execution.
+
+> This approach turns QA from a **cost center** into a **decision-making layer**.
+> QA is not about more tests — it's about **better decisions**.
+
+---
+
 <div align="center">
 
-<svg width="100%" height="40" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <rect width="100" height="10" fill="#0A66C2" />
-</svg>
+<br/>
 
-### 🛡️ Mithril Guard QA  
+### 🛡️ Mithril Guard QA
+
 **Quality you can trust. Releases you can predict.**
+
+<br/>
+
+<a href="mailto:mithrilguardqa@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_us-555?style=for-the-badge&logoColor=white" alt="Email us" /></a>
+
+<br/><br/>
+
+<sub>© Mithril Guard QA · Built for teams that ship fast without breaking things.</sub>
 
 </div>
