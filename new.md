@@ -13,13 +13,7 @@
 
 <br/>
 
-<a href="https://calendly.com/mithrilguardqa/qa-audit">
-  <img src="https://img.shields.io/badge/📅_Book_a_QA_Audit-0A66C2?style=for-the-badge&logoColor=white" alt="Book a QA Audit" />
-</a>
-
-<a href="#-how-it-works">
-  <img src="https://img.shields.io/badge/▸_View_how_it_works-1a1a1a?style=for-the-badge&logoColor=white" alt="View how it works" />
-</a>
+<a href="https://calendly.com/mithrilguardqa/qa-audit"><img src="https://img.shields.io/badge/📅_Book_a_QA_Audit-0A66C2?style=for-the-badge&logoColor=white" alt="Book a QA Audit" /></a>&nbsp;<a href="#-how-it-works"><img src="https://img.shields.io/badge/▸_View_how_it_works-1a1a1a?style=for-the-badge&logoColor=white" alt="View how it works" /></a>
 
 <br/><br/>
 
@@ -229,10 +223,7 @@ not just test execution.
 
 <br/>
 
-&nbsp;
-<a href="mailto:mithrilguardqa@gmail.com">
-<img src="https://img.shields.io/badge/✉️_Email_us-555?style=for-the-badge&logoColor=white" alt="Email us" />
-</a>
+<a href="mailto:mithrilguardqa@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_us-555?style=for-the-badge&logoColor=white" alt="Email us" /></a>
 
 <br/><br/>
 
