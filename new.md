@@ -13,11 +13,11 @@
 
 <br/>
 
-<a href="https://calendly.com/mithrilguardqa"><img src="https://img.shields.io/badge/📅_Book_a_QA_Audit-0A66C2?style=for-the-badge&logoColor=white" alt="Book a QA Audit" /></a>&nbsp;<a href="#-how-it-works"><img src="https://img.shields.io/badge/▸_View_how_it_works-1a1a1a?style=for-the-badge&logoColor=white" alt="View how it works" /></a>
+<a href="https://calendly.com/mithrilguardqa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/📅_Book_a_QA_Audit-0A66C2?style=for-the-badge&logoColor=white" alt="Book a QA Audit" /></a>&nbsp;<a href="#-how-it-works"><img src="https://img.shields.io/badge/▸_View_how_it_works-1a1a1a?style=for-the-badge&logoColor=white" alt="View how it works" /></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/mithrilguardqa/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/company/mithril-guard-qa/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Mithril%20Guard%20QA-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:mithrilguardqa@gmail.com">
@@ -143,7 +143,7 @@ A focused assessment designed to identify where your system is most at risk.
 
 <br/>
 
-<a href="https://calendly.com/mithrilguardqa">
+<a href="https://calendly.com/mithrilguardqa" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Book_a_QA_Audit-0A66C2?style=for-the-badge" alt="Book a QA Audit" />
 </a>
 
@@ -185,7 +185,7 @@ Ongoing risk control embedded into your development and release process.
 
 If you're unsure where to start, book a short call and we'll figure it out together.
 
-<a href="https://calendly.com/mithrilguardqa">
+<a href="https://calendly.com/mithrilguardqa" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/📞_Book_a_call-1a1a1a?style=for-the-badge&logoColor=white" alt="Book a call" />
 </a>
 
